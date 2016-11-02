@@ -5,19 +5,19 @@ GUI tool to resource candidates using BigQuery
 ## Run
 
 ```
-bash run.sh
+./run.sh
 ```
 
 ## Run tests
 
 ```
-bash run_tests.sh
+./run_tests.sh
 ```
 
 ## Create package to distribute in Mac
 
 ```
-bash dist_mac.sh
+./dist_mac.sh
 ```
 
 ## Install Reasourcer in Mac
