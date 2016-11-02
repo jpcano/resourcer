@@ -1,0 +1,63 @@
+C_SCHENGEN = [
+    'Austria', 
+    'Belgium', 
+    'Bulgaria', 
+    'Croatia', 
+    'Cyprus', 
+    'Czech Republic', 
+    'Denmark', 
+    'Estonia', 
+    'Finland',
+    'France', 
+    'Germany', 
+    'Greece', 
+    'Hungary', 
+    'Ireland', 
+    'Italy', 
+    'Latvia', 
+    'Lithuania',
+    'Luxembourg', 
+    'Malta',
+    'Netherlands', 
+    'Poland', 
+    'Portugal', 
+    'Romania', 
+    'Slovakia', 
+    'Slovenia', 
+    'Spain', 
+    'Sweden', 
+    'United Kingdom']
+
+C_FRENCH = [
+    'France',
+    'Belgium',
+    'Canada',
+    'Switzerland',
+    'Luxembourg',
+    'Monaco'
+]
+
+C_SPANISH = [
+    'Spain',
+    'Colombia',
+    'Mexico',
+    'Argentina',
+    'Peru',
+    'Venezuela',
+    'Chile',
+    'Ecuador',
+    'Guatemala',
+    'Cuba',
+    'Bolivia',
+    'Dominican Republic',
+    'Honduras',
+    'Paraguay',
+    'El Salvador',
+    'Nicaragua',
+    'Costa Rica',
+    'Puerto Rico',
+    'Panama',
+    'Uruguay',
+    'Equatorial Guinea'
+]
+
